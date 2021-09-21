@@ -1,3 +1,3 @@
 # Unsupervised-Learning
 
-This repository contains projects relevant to unsupervised learning
+This repository contains a project the covers the concepts of unsupervised learning
